@@ -1,3 +1,4 @@
+/* i like the gold and blue. its my signature for now or at least until i find better colors. */
 .highlight-gold {
     color: #ffd700 !important; /* Goldish */
     font-weight: bold !important;
@@ -5,7 +6,7 @@
   }
   
   .highlight-blue {
-    color: #00bfff !important; /* Light blueish */
+    color: #ffd700; !important; /* Light blueish */
     font-weight: bold !important;
     text-shadow: 1px 1px 10px rgba(0, 191, 255, 0.5) !important;
   }
