@@ -1,0 +1,32 @@
+.highlight-gold {
+    color: #ffd700 !important; /* Goldish */
+    font-weight: bold !important;
+    text-shadow: 1px 1px 10px rgba(255, 215, 0, 0.5) !important;
+  }
+  
+  .highlight-blue {
+    color: #00bfff !important; /* Light blueish */
+    font-weight: bold !important;
+    text-shadow: 1px 1px 10px rgba(0, 191, 255, 0.5) !important;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  body {
+    background: #666;
+    color: white;
+  }
+  
